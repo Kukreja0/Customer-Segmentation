@@ -1,4 +1,3 @@
-# Customer-Segmentation
 #  Customer Segmentation Dashboard
 
 ##  Project Overview
